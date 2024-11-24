@@ -5,6 +5,14 @@
       <excludeFolder url="file://$MODULE_DIR$/results" />
       <excludeFolder url="file://$MODULE_DIR$/wandb" />
       <excludeFolder url="file://$MODULE_DIR$/Llama-3.2-KO-1B-Instruct" />
+      <excludeFolder url="file://$MODULE_DIR$/KHU-Llama-3.2-3B" />
+      <excludeFolder url="file://$MODULE_DIR$/KHU-Llama-3.2-3B-LoRA" />
+      <excludeFolder url="file://$MODULE_DIR$/PathFinderKR" />
+      <excludeFolder url="file://$MODULE_DIR$/_unsloth_temporary_saved_buffers" />
+      <excludeFolder url="file://$MODULE_DIR$/KHU-Llama-3.2-3B-Instruct" />
+      <excludeFolder url="file://$MODULE_DIR$/KHU-Llama-3.2-3B-Instruct-LoRA" />
+      <excludeFolder url="file://$MODULE_DIR$/_unsloth_sentencepiece_temp" />
+      <excludeFolder url="file://$MODULE_DIR$/unsloth_compiled_cache" />
     </content>
     <orderEntry type="jdk" jdkName="torch-env" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

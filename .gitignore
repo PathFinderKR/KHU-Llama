@@ -1,3 +1,11 @@
 /.env
 /results/
 /wandb/
+/_unsloth_temporary_saved_buffers/
+/PathFinderKR/
+/KHU-Llama-3.2-3B-LoRA/
+/KHU-Llama-3.2-3B/
+/KHU-Llama-3.2-3B-Instruct/
+/KHU-Llama-3.2-3B-Instruct-LoRA/
+/_unsloth_sentencepiece_temp/
+/unsloth_compiled_cache/
